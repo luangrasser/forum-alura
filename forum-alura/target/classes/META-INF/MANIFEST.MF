@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Alura
+Build-Jdk: 10.0.2
+Implementation-Title: forum
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.alura
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/forum
+Created-By: Maven Integration for Eclipse
+
